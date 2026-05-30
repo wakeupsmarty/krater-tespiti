@@ -1,6 +1,8 @@
 # 🌑 Ay Krateri Tespiti — YOLOv8 ile Nesne Tespiti
 
 > YOLOv8 derin öğrenme modeli kullanılarak ay yüzeyindeki kraterlerin otomatik olarak tespit edilmesi.
+> ## GitHub Repo
+[github.com/wakeupsmarty/krater-tespiti](https://github.com/wakeupsmarty/krater-tespiti)
 
 ---
 
